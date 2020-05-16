@@ -98,8 +98,6 @@
     }
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-ui": "^19.0.0",
-    "ckeditor-upload-weblink": "file:../ckeditor-upload-weblink",
-    "image-plugin-ckeditor-test": "file:../image-plugin-ckeditor"
+    "@ckeditor/ckeditor5-ui": "^19.0.0"
   }
 }
