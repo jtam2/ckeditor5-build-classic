@@ -30,23 +30,19 @@
     "@ckeditor/ckeditor5-autoformat": "^19.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^19.0.0",
     "@ckeditor/ckeditor5-block-quote": "^19.0.0",
-    "@ckeditor/ckeditor5-ckfinder": "^19.0.0",
     "@ckeditor/ckeditor5-core": "^19.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^13.0.0",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^9.0.0",
     "@ckeditor/ckeditor5-easy-image": "^19.0.0",
-    "@ckeditor/ckeditor5-editor-classic": "^19.0.0",
     "@ckeditor/ckeditor5-essentials": "^19.0.0",
     "@ckeditor/ckeditor5-heading": "^19.0.0",
     "@ckeditor/ckeditor5-horizontal-line": "^19.0.0",
     "@ckeditor/ckeditor5-indent": "^19.0.0",
     "@ckeditor/ckeditor5-link": "^19.0.0",
     "@ckeditor/ckeditor5-list": "^19.0.0",
-    "@ckeditor/ckeditor5-media-embed": "^19.0.0",
     "@ckeditor/ckeditor5-paragraph": "^19.0.0",
     "@ckeditor/ckeditor5-paste-from-office": "^19.0.0",
     "@ckeditor/ckeditor5-special-characters": "^19.0.0",
-    "@ckeditor/ckeditor5-table": "^19.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^19.0.0",
     "@ckeditor/ckeditor5-typing": "^19.0.0",
     "eslint": "^5.5.0",
@@ -98,6 +94,7 @@
     }
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-editor-balloon": "^19.0.1",
     "@ckeditor/ckeditor5-ui": "^19.0.0"
   }
 }
